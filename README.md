@@ -1,2 +1,2 @@
-# datacamp
-Datacamp projects and exercises
+# General
+My realization for Datacamp projects
